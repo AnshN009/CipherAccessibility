@@ -1,1 +1,1 @@
-# Personal project
+# Personal CS Project for College and Fun
